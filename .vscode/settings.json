@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/0dda98b6-b7c2-4cd7-bf97-0038436ad2ec/microsoft.web/sites/subscriptions/0dda98b6-b7c2-4cd7-bf97-0038436ad2ec/resourceGroups/django-postgresql/providers/Microsoft.Web/sites/show753-django-postgresql",
+  "appService.deploySubpath": "."
+}
